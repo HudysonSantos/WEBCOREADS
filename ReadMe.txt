@@ -1,0 +1,1 @@
+﻿Olá, bem vindo ao sistema de Gestão Agricola da disciplina de Linguagem de Programação.
